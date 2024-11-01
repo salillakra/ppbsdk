@@ -4,7 +4,7 @@
 laude ka Pattern problems !
 
 Yahan kuch patterns hain jo aap solve kariye...
-fastest and most effective way to master pattern problems and loops(tried and test mf).
+fastest and most effective way to master pattern problems and loops(tried and tested mf).
 
 Please Debugger use karo, bhosdk! Bahut help hoota hai.
 
