@@ -1,8 +1,3 @@
-```
-- Copyright (c) 2024 Salil Lakra
-- All rights reserved.
-
-```
 
 # Dekho Bhaiyo!
 
@@ -22,3 +17,4 @@ git clone https://github.com/salillakra/ppbsdk.git
 
 
 happy coding...
+Gulabi Dil ♥️ aapke liye....
